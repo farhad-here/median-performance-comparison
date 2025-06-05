@@ -31,10 +31,11 @@ This project compares the performance and result of calculating the **median** u
 1. Python 3.x
 
 2. NumPy
+3. Matplotlib
 
 Install NumPy:
 ```python
-pip install numpy
+pip install numpy matplotlib
 ```
 # 🧑‍💻 Author
 Made with ❤️ by FarhadGhaherdoost
