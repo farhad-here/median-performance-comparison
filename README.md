@@ -33,6 +33,8 @@ This project compares the performance and result of calculating the **median** u
 2. NumPy
 3. Matplotlib
 
+3. Matplotlib
+   
 Install NumPy:
 ```python
 pip install numpy matplotlib
